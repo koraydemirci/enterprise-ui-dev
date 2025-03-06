@@ -20,7 +20,7 @@ When it comes to testing, a lot of the terminology is murky and things don't alw
 - [Unit, Integration, and End-to-End Testing](content/Unit,%20Integration,%20and%20End-to-End%20Testing.md)
 - [Test Runners and Assertion Libraries](content/Test%20Runners%20and%20Assertion%20Libraries.md)
 
-## Getting Warmed Up: The Basics of Unit Testing
+## Getting Warmed Up: The Basics of Unit Testings
 
 Okay, we're not going to dwell _too much_ on the basics of unit testing, but let's at least do a quick review of the basics to get ourselves warmed up and make sure we're on the same page. If you're a little rusty, then this section will get you up to speed. That said, I suspect that even the seasoned unit testing wunderkind, I suspect you'll still pick up a trick or two.
 
